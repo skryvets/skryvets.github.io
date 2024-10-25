@@ -1,0 +1,26 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Sergey Kryvets'
+theme = 'hugo-coder'
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  # author = "John Doe"
+  # info = "Full Stack DevOps and Magician"
+  # description = "John Doe's personal website"
+  # keywords = "blog,developer,personal"
+  # avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  # faviconSVG = "/img/favicon.svg"
+  # favicon_32 = "/img/favicon-32x32.png"
+  # favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2018
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
